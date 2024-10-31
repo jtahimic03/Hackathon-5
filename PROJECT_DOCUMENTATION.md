@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+A random quote generator that fetches quotes from an API or a local JSON file and displays them on the webpage
 
 ## Team Members:
 
