@@ -16,9 +16,9 @@
 
 -   Worked on [specific elements] of the webpage.
 
-### Name 2:
+### Maria Phoebe Lim:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for creating HTML structure and script to fetch random quotes.
 
 ### Name 3:
 
