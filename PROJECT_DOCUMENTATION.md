@@ -20,6 +20,6 @@
 
 -   Was responsible for creating HTML structure and script to fetch random quotes.
 
-### Name 3:
+### Diljot Singh Sangha:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Was resposible for implementing css and adding the finishing touches.

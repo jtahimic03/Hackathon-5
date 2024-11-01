@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    margin: 0;
+}
+
+main {
+    text-align: center;
+    padding: 2em;
+    width: 90%;
+    max-width: 40em;
+    background-color: white;
+}
+
+h1 {
+    font-size: 1.8em;
+    margin-bottom: 1em;
+    color: black;
+}
+
+#data-container q {
+    font-size: 1.2em;
+    font-style: italic;
+    color: darkgray;
+    display: block;
+    margin: 1.5em 0;
+}
+
+#data-container p {
+    font-size: 1em;
+    color: gray;
+}
+
+button {
+    padding: 0.75em 1.5em;
+    font-size: 1em;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 0.3em;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
